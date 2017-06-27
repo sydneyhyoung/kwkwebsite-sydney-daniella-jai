@@ -1,0 +1,129 @@
+body {
+    background: gray;
+}
+
+#KWK {
+    font-size: 250%;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #57A852;
+}
+
+#LA {
+    font-size: 150%;
+    text-align: center;
+    margin: -2px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*This is how I got the menu bar on home page.*/
+
+.topnav {
+  overflow: hidden;
+  background-color: gray;
+  padding-top: 10px;
+  padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+  
+}
+
+.topnav a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-bottom: 5px;
+    padding-left: 360px;
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: underline;
+}
+
+#basics {
+    text-align: center;
+    font-size: 170%;
+}
+
+#basicsdescription {
+    font-size: 125%;
+    text-align: center;
+}
+
+#basicslist {
+    font-size: 110%;
+}
+
+#cd {
+    text-align: center;
+    font-size: 180%;
+    font-family: 'Montserrat', sans-serif;
+    color: #57A852;
+}
+
+#Langs {
+    font-size: 150%;
+    float: left;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#cdSum {
+    text-align: center;
+}
+
+
+#MouseLink {
+    text-align: center;
+    width: px;
+}
+
+#provided {
+    text-align: center;
+    font-size: 99%;
+}
+
+#Teachers {
+    text-align: center;
+    font-size: 180%;
+    font-family: 'Montserrat', sans-serif;
+    color: #57A852;
+}
+
+#tname {
+    text-align: center;
+    font-size: 130%;
+}
+
+#sname {
+    text-align: center;
+    font-size: 130%;
+}
+
+#taylor {
+    float: right;
+    margin: 0px 0px;
+    font-size: 120%;
+}
+
+#sarah {
+    float: left;
+    font-size: 120%;
+}
+
+#rock {
+    float: right;
+}
+
+#kla {
+    float: left;
+}
+
+#karlie {
+    float: right;
+}
